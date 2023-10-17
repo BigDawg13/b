@@ -1,1 +1,1 @@
-ur not super cool
+Grady Wright is a bitch
