@@ -1,1 +1,1 @@
-Big bruh no cap ong
+ur not super cool
