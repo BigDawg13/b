@@ -15,3 +15,4 @@ merge conflict
 class mergeConflict {
     private int rip = "This should not be a string";
 }
+connor is a cool dude
