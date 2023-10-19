@@ -14,4 +14,8 @@ merge conflict
 class mergeConflict {
     private int rip = "This should not be a string";
 }
+<<<<<<< HEAD
 add something
+=======
+connor is a cool dude
+>>>>>>> 6ad0312c7382991b37151ef1a7b8932ad5df8565
