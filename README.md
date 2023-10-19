@@ -10,3 +10,4 @@ Count 1
 10 This is the third commit today for me
 new
 EDIT DEEIT DITE
+merge conflict
